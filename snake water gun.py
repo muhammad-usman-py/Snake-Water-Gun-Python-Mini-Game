@@ -1,3 +1,4 @@
+##KEY POINTS
 #Taking usr iphut S W G
 # computer will choose S W G
 # Game Rules
